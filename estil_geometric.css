@@ -113,7 +113,7 @@ nav ul li a:hover::after{
     padding: 200px;
 
     font-size: 4em;
-    background-image:linear-gradient(rgba(171, 142, 105, 0.7), rgba(206,175,134,0.7)),url(imatges/CAPÇALERAGEOMETRIC.jpeg);
+    background-image:linear-gradient(rgba(171, 142, 105, 0.7), rgba(206,175,134,0.7)),url(imatges/geo4.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
